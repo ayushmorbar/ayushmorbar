@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmorbar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmorbar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar" alt="ayushmorbar" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar" alt="ayushmorbar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ayush_morbar" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_morbar?logo=twitter&style=for-the-badge" alt="ayush_morbar" /></a> </p>
 
