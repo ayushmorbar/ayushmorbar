@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="ayushmorbar" /></a> </p>
 
+[![@ayushmorbar's Holopin board](https://holopin.me/ayushmorbar)](https://holopin.io/@ayushmorbar)
+
 <p align="left"> <a href="https://twitter.com/ayush_morbar" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_morbar?logo=twitter&style=for-the-badge" alt="ayush_morbar" /></a> </p>
 
 - ⚡ Fun fact **I am addicted to music.**
