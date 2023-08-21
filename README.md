@@ -28,8 +28,8 @@
 
 [![ayushmorbar's GitHub | Stats](https://stats.quine.sh/ayushmorbar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
 
-[![ayushmorbar's GitHub | Topics](https://stats.quine.sh/ayushmorbar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
-
 [![ayushmorbar's GitHub | Dependencies](https://stats.quine.sh/ayushmorbar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
+
+[![ayushmorbar's GitHub | Topics](https://stats.quine.sh/ayushmorbar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
 
 [![ayushmorbar's GitHub | Languages Over Time](https://stats.quine.sh/ayushmorbar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
