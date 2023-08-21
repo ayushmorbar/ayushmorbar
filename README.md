@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmorbar&show_icons=true&locale=en" alt="ayushmorbar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmorbar&" alt="ayushmorbar" /></p>
+
+[![ayushmorbar's GitHub | Stats](https://stats.quine.sh/ayushmorbar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
+
+[![ayushmorbar's GitHub | Topics](https://stats.quine.sh/ayushmorbar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
