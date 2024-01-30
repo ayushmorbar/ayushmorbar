@@ -26,7 +26,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://bard.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff" alt="Google Bard" width="40" height="40"/> </a> <a href="https://www.chat.openai.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" width="40" height="40"/> </a> </p>
+![image]({https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white})
+![image]({https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff})
 
 
 [![ayushmorbar's GitHub | Stats](https://stats.quine.sh/ayushmorbar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushmorbar)
