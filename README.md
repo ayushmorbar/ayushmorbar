@@ -4,7 +4,7 @@ I'm an AI/ML-focused student with experience in software engineering, machine le
 
 - 🌱 Currently learning: Advanced ML algorithms and Kotlin for Android apps
 - 👯 Looking to collaborate on: AI-driven projects and hackathons
-- 📫 How to reach me: ayushmorbar@example.com (feel free to connect!)
+- 📫 How to reach me: ayushmorbar@rjit.ac.in (feel free to connect!)
 - ⚡ Fun fact: I'm addicted to music and often code with a playlist blasting!
 
 ## 📊 My GitHub Stats
